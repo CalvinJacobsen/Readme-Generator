@@ -36,7 +36,8 @@
 
 ## Questions 
 
- You can ask your questions by messaging me on Github at -> CalvinJacobsen or by emailing me at -> Jaco1932@umn.edu
+ You can ask your questions by messaging me on Github at -> https://github.com/CalvinJacobsen <br />
+ or by emailing me at -> Jaco1932@umn.edu
 
 ## Tests 
 
