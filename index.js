@@ -109,7 +109,7 @@ function init() {
         fileBody += `## Installation Instructions \n\n ${resoponsesObj.installation} \n\n`;
         fileBody += `## Usage Information \n\n ${resoponsesObj.usage} \n\n`;
         fileBody += `## Contributions \n\n ${resoponsesObj.contributions} \n\n`;
-        fileBody += `## Questions \n\n You can ask your questions by messaging me on Github at -> ${resoponsesObj.githubUsername} or by emailing me at -> ${resoponsesObj.email}\n\n`;
+        fileBody += `## Questions \n\n You can ask your questions by messaging me on Github at -> https://github.com/${resoponsesObj.githubUsername} <br /> or by emailing me at -> ${resoponsesObj.email}\n\n`;
         fileBody += `## Tests \n\n ${resoponsesObj.tests} \n\n [(Back to top)](#table-of-contents)`;
 
         writeToFile(filename, fileBody);
