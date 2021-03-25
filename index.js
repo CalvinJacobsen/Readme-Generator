@@ -89,7 +89,7 @@ function init() {
                 break;
         }
         //inputing responses to file string --> then inputting into md file
-        const filename = `README.md`;
+        const filename = `${resoponsesObj.projectTitle}README.md`;
         //initializing and putting Project title at top
         let fileBody = `${licenseIMG}\n\n# ${resoponsesObj.projectTitle} \n\n`;
 
